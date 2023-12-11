@@ -1,0 +1,8 @@
+a) La clase es un molde que se concretiza mediante la instanciación, que produce el objeto.
+b) Los atributos son las propiedades de una clase. Sus cualidades. Los métodos es lo que la clase o 
+sus instancias, pueden hacer.
+c) public,private,protected. Public permite acceso desde cualquier parte del programa mediante la instancia/clase.
+Private solo desde dentro de la clase. Protected desde dentro de la clases y sus subclases.
+d) De cualquier tipo simple(depende del lenguaje esto) o compuesto(clases,arrays..)
+e) Para reutilizar código entre clases que poseen propiedades/comportamientos comunes.
+
